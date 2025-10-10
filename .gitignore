@@ -16,3 +16,7 @@ docs/
 broadcast/
 lib/
 
+.DS_Store
+# Add other common dev files to ignore
+/cache/
+/out/
